@@ -1,0 +1,16 @@
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\HaveABlast.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\obj\Debug\HaveABlast.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\libsndfile-1.dll
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\openal32.dll
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\csfml-audio-2.dll
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\csfml-graphics-2.dll
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\csfml-window-2.dll
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\HaveABlast.exe
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\HaveABlast.pdb
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\Otter.dll
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\sfmlnet-audio-2.dll
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\sfmlnet-graphics-2.dll
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\sfmlnet-window-2.dll
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\bin\Debug\Otter.pdb
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\obj\Debug\HaveABlast.exe
+c:\users\alex\documents\visual studio 2013\Projects\HaveABlast\obj\Debug\HaveABlast.pdb
